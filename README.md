@@ -1,6 +1,6 @@
 # ffms_flutter
 
-A new Flutter project.
+FFMS的flutter重构版本.
 
 ## Getting Started
 
