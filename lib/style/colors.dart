@@ -10,3 +10,5 @@ const colorWhite99 = Color(0x99ffffff);
 
 const activityBg = Color(0xffF7F7FC);
 const colorDivider = Color(0x66E4E4E9);
+
+const colorWhiteF7F7FC = Color(0xffF7F7FC);
